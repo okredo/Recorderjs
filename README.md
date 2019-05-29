@@ -1,3 +1,6 @@
+ - note: this repo didn't record properly, due to its being stale most likely.
+ - we fixed it during Hackathon 2019 at Gracenote
+ 
 # Recorder.js
 
 ## A plugin for recording/exporting the output of Web Audio API nodes
