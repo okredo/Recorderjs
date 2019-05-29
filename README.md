@@ -1,4 +1,4 @@
- - note: this repo didn't record properly, due to its being stale most likely.
+ - note: this repo didn't record properly, due to its being stale most likely, and needing the change mentioned here: https://developers.google.com/web/updates/2017/09/autoplay-policy-changes#webaudio .
  - we fixed it during Hackathon 2019 at Gracenote
  
 # Recorder.js
