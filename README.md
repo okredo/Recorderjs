@@ -1,7 +1,6 @@
  - note: this repo didn't record properly, due to its being stale most likely, and needing the change mentioned here: https://developers.google.com/web/updates/2017/09/autoplay-policy-changes#webaudio .
  - we fixed it during Hackathon 2019 at Gracenote
- - https://github.com/okredo/Recorderjs/blob/770c21000d265b638f7189c0bdee74aa36b4c253/examples/example_simple_exportwav.html#L44 is the fix
- - we had to move where we instantiated the context
+ 	- https://github.com/okredo/Recorderjs/blob/770c21000d265b638f7189c0bdee74aa36b4c253/examples/example_simple_exportwav.html#L44  (we had to move where we instantiated the context)
  
 # Recorder.js
 
